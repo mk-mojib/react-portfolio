@@ -21,7 +21,7 @@ Hi, I'm Md Khalid Mojib, a Front-end Developer with a passion for Software Engin
 
 ## Project Structure
 
-![alt text](image.png)
+![alt text]()
 
 ## Projects
 
