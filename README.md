@@ -4,7 +4,7 @@ Welcome to my portfolio! This repository showcases a collection of my projects, 
 
 ## View Portfolio
 
-You can view the live version of my portfolio [here](https://your-username.github.io/react-portfolio/).
+You can view the live version of my portfolio [here](https://mk-mojib.github.io/react-portfolio/).
 
 
 ## Table of Contents
