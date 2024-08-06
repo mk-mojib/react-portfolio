@@ -24,31 +24,6 @@ Hi, I'm Md Khalid Mojib, a Front-end Developer with a passion for Software Engin
 (![alt text](image.png))
 
 
-react-portfolio/
-├── public/
-│   ├── index.html
-│   └── assets/
-│       └── images/
-│           └── profile.jpg
-├── src/
-│   ├── components/
-│   │   │   └── About.js
-│   │   │   ├── Contact.js
-│   │   │   ├── Education.js
-│   │   │   ├── Footer.js
-│   │   │   ├── Header.js
-│   │   │   ├── Projects.js
-│   │       └── Skills.js
-│   ├── App.js
-│   ├── App.css
-│   ├── index.js
-│   ├── index.css
-├── .gitignore
-├── README.md
-├── package.json
-└── yarn.lock (or package-lock.json)
-
-
 ## Projects
 
 Here are some of the projects I've worked on:
