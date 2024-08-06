@@ -28,7 +28,7 @@ const Hero = () => {
                             </h3>
 
                             <ul className="apihu-port-hero-btn-wrap wow slideInUp">
-                                <li><a className="apihu-port-primary-btn apihu-port-hero-btn-gradient" href="mailto:aadityaraj085@gmail.com">Contact Me +</a></li>
+                                <li><a className="apihu-port-primary-btn apihu-port-hero-btn-gradient" href="mailto:mdkhalidmojib@gmail.com">Contact Me +</a></li>
                                 <li><a className="apihu-port-secondary-btn apihu-port-hero-btn-white" href="#apihu-port-resume">About Me <i className="fa-solid fa-arrow-down"></i></a></li>
                             </ul>
                         </div>
